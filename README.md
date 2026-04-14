@@ -16,7 +16,7 @@ We are proud to present that this project has been accepted and published in:
 - Secure and scalable assistant architecture
 
 📖 Status: **Published / Accepted (NCIIT 2025)**
-
+---
 ## ✨ Key Highlights
 
 - 🔐 Face-based biometric authentication before task execution  
