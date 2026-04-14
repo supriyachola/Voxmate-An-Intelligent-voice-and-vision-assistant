@@ -6,7 +6,7 @@ We are proud to present that this project has been accepted and published in:
 
 🎓 **NCIIT 2025 – National Conference on Innovations in Information Technology**
 
-📌 Paper Title:  
+📌 **Paper Title:**  
 **“Voxmate: An Intelligent Voice & Vision Based Smart Assistant”**
 
 🧠 This research focuses on:
@@ -15,8 +15,10 @@ We are proud to present that this project has been accepted and published in:
 - Intelligent automation using LLMs
 - Secure and scalable assistant architecture
 
-📖 Status: **Published / Accepted (NCIIT 2025)**
+📖 **Status:** Published / Accepted (NCIIT 2025)
+
 ---
+
 ## ✨ Key Highlights
 
 - 🔐 Face-based biometric authentication before task execution  
@@ -29,6 +31,7 @@ We are proud to present that this project has been accepted and published in:
 ---
 
 ## 🧩 System Architecture
+
 
 User (Voice + Face)
 ↓
