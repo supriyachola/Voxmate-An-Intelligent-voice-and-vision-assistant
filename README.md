@@ -17,6 +17,8 @@ We are proud to present that this project has been accepted and published in:
 
 📖 **Status:** Published / Accepted (NCIIT 2025)
 
+## Selected for the 49th KSCST Student Project Programme (SPP), IISc Bangalore and completed Midterm Evaluation
+
 ---
 
 ## ✨ Key Highlights
