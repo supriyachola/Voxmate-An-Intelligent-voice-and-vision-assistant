@@ -1,4 +1,4 @@
-# Voxmate: An Intelligent Voice & Vision Based Smart Assistan
+# Voxmate: An Intelligent Voice & Vision Based Smart Assistant
 ## Selected for the 49th KSCST Student Project Programme (SPP), IISc Bangalore and completed Midterm Evaluation
 ## 📄 Research Publication
 
