@@ -1,4 +1,4 @@
-###Voxmate: An Intelligent Voice & Vision Based Smart Assistan
+### Voxmate: An Intelligent Voice & Vision Based Smart Assistan
 
 ## 📄 Research Publication
 
