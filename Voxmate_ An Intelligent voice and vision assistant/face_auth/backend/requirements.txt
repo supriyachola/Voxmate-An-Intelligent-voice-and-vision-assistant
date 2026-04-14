@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+deepface
+firebase-admin
+python-multipart
+cryptography
+numpy
+pillow
